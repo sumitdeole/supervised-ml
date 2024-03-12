@@ -16,4 +16,4 @@ Complete code is available in this reposatory [click here](https://github.com/su
 For this part of the project, I will use the continuous house price column: *SalePrice*. The prediction will take place by applying many regression estimators to get the best prediction performance, i.e., higher *R2 squared* and lower *Root Mean Squared Error (RMSE)* scores. Ultimately, the trained model will be used to predict the house prices of the unlabelled test dataset present on **Kaggle** ([link here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)).
 
 
-Complete code is available in this reposatory [click here](https://github.com/sumitdeole/supervised-ml/blob/main/code/classification_code.ipynb).
+Complete code is available in this reposatory [click here](https://github.com/sumitdeole/supervised-ml/blob/main/code/regression_code.ipynb).
